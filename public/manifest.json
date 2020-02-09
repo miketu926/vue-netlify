@@ -1,0 +1,9 @@
+{
+    "name": "vue host",
+    "short_name": "vue host",
+    "icons": [],
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#000000"
+}
