@@ -1,5 +1,7 @@
 # vue-host
 
+Live: https://elated-torvalds-1b3a79.netlify.com/
+
 ## Project setup
 ```
 npm install
